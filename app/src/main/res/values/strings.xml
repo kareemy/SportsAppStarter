@@ -1,0 +1,406 @@
+<resources>
+    <string name="app_name">Sports</string>
+    <string name="list_fragment_label">Sports</string>
+    <string name="detail_fragment_label">Sport Info</string>
+
+    <string name="baseball">Baseball</string>
+    <string name="badminton">Badminton</string>
+    <string name="basketball">Basketball</string>
+    <string name="bowling">Bowling</string>
+    <string name="cycling">Cycling</string>
+    <string name="golf">Golf</string>
+    <string name="running">Running</string>
+    <string name="soccer">Soccer</string>
+    <string name="swimming">Swimming</string>
+    <string name="table_tennis">Table Tennis</string>
+    <string name="tennis">Tennis</string>
+
+    <string name="baseball_list_subtitle">Played with a bat and ball by two teams aiming to score runs by hitting and running on a field.</string>
+    <string name="badminton_list_subtitle">A fast-paced racquet sport, where players use a shuttlecock to score points by hitting it over a net.</string>
+    <string name="basketball_list_subtitle">Played on a court, where two teams aim to score points by shooting a ball through a hoop.</string>
+    <string name="bowling_list_subtitle">Players roll a heavy ball down a lane to knock down pins arranged in a triangular formation.</string>
+    <string name="cycling_list_subtitle">Cycling is a sport that involves riding bicycles, typically on roads or off-road trails.</string>
+    <string name="golf_list_subtitle">Golf is a sport played on a course, where players aim to get a ball into holes in as few strokes as possible.</string>
+    <string name="running_list_subtitle">Running is a sport and exercise where individuals move rapidly on foot, often in races of varying distances.</string>
+    <string name="soccer_list_subtitle">A team sport played on a field where two teams aim to score goals by kicking a ball into the net.</string>
+    <string name="swimming_list_subtitle">Swimming is a water sport where people move through water using different strokes.</string>
+    <string name="table_tennis_list_subtitle">A fast-paced indoor sport with small paddles and a lightweight ball played over a table.</string>
+    <string name="tennis_list_subtitle">Tennis is a racquet sport played on a court, with players scoring points by hitting a ball over a net.</string>
+
+    <string name="baseball_detail_text">
+        The history of baseball is a journey that spans centuries, evolving from a simple
+        bat-and-ball game into a complex sport deeply embedded in American culture and embraced
+        worldwide. Its roots can be traced back to various bat-and-ball games played in Europe, but
+        it took on a distinctive form in North America during the 18th and 19th centuries.
+        \n\n
+        In the mid-19th century, baseball began to take shape as clubs and organizations established
+        rules and regulations. The Knickerbocker Base Ball Club in New York is often credited with
+        codifying many of the sport\'s rules in 1845, including the diamond-shaped field and the
+        nine-player team format. By the late 19th century, baseball had grown in popularity and
+        professionalism, with the formation of the National League in 1876 as the first major
+        professional baseball league.
+        \n\n
+        The late 19th and early 20th centuries witnessed the rise of iconic players like Babe Ruth,
+        whose prowess as a power hitter changed the game and captured the imagination of fans. The
+        "Black Sox" scandal of 1919, in which several Chicago White Sox players conspired to fix the
+        World Series, highlighted the need for better governance and integrity in the sport. This
+        led to the establishment of the Office of the Commissioner of Baseball, which helped restore
+        public trust.
+        \n\n
+        The sport continued to evolve with the inclusion of African American players, most notably
+        Jackie Robinson, who broke the color barrier when he joined the Brooklyn Dodgers in 1947.
+        This marked a significant milestone in the fight for racial equality and expanded the talent
+        pool of baseball players. In the following decades, players like Hank Aaron, Willie Mays,
+        and Roberto Clemente became legends of the game.
+        \n\n
+        Baseball\'s global appeal grew as well, with the establishment of international competitions
+        like the World Baseball Classic. Today, baseball remains a beloved sport in the
+        United States, Japan, Latin America, and many other countries, with Major League Baseball
+        (MLB) serving as the pinnacle of professional play. Its rich history, iconic players, and
+        enduring popularity make baseball a timeless and cherished part of sports history.
+    </string>
+
+    <string name="badminton_detail_text">
+        The history of badminton is a rich tapestry that dates back centuries, with its origins
+        tracing to ancient civilizations. The game evolved from various ancient forms of shuttlecock
+        sports, with roots in cultures as diverse as India, China, and Greece.
+        \n\n
+        One of the earliest forms of badminton was played in India, where it was known as "Poona"
+        due to its popularity in Pune. British army officers stationed in India in the mid-19th
+        century encountered the game and brought it back to England. They introduced it to their
+        friends and played it in their leisure time, eventually formalizing the rules. In 1873,
+        badminton was officially introduced in England when the Bath Badminton Club published the
+        first official rules of the game, and it quickly gained popularity.
+        \n\n
+        The sport further evolved when the Duke of Beaufort\'s Badminton House hosted the first
+        official badminton tournament in 1877. The game was initially played with a wooden
+        shuttlecock and called "Poona," but as it gained popularity in England, the name "badminton"
+        was adopted, derived from the Duke\'s estate.
+        \n\n
+        Badminton continued to develop and grow as a popular recreational activity, and it gained
+        international recognition with the formation of the Badminton Association of England in
+        1893. The first All England Championships took place in 1899, marking the birth of
+        competitive badminton. As the sport expanded globally, the first international tournament
+        was held between England and Ireland in 1903.
+        \n\n
+        In 1934, the International Badminton Federation (now the Badminton World Federation) was
+        founded, overseeing the sport\'s global development. Badminton became an Olympic sport in
+        1992, further solidifying its status on the world stage. Today, it is played and enjoyed by
+        millions of people worldwide, with professional tournaments, including the prestigious All
+        England Open Badminton Championships, showcasing top talent and skill in the sport. The
+        history of badminton is a testament to its enduring appeal and evolution from a leisure
+        activity to a highly competitive sport.
+    </string>
+    <string name="basketball_detail_text">
+        The history of basketball is a captivating journey that began in the late 19th century and
+        has since become one of the most popular and widely played sports in the world. Its
+        invention is credited to Dr. James Naismith, a Canadian physical education instructor, who
+        created the game in December 1891 in Springfield, Massachusetts, as a way to keep his
+        students active during the winter months.
+        \n\n
+        Naismith\'s original concept involved nailing a peach basket onto the wall of a gymnasium
+        and using a soccer ball. The objective was to score points by throwing the ball into the
+        opposing team\'s basket while following a set of basic rules. This rudimentary version of
+        basketball quickly gained popularity, and the first official game was played on January 20,
+        1892.
+        \n\n
+        The game\'s growth was rapid, and the first official basketball match outside the United
+        States occurred in 1893 in Ontario, Canada. Soon after, colleges and universities began
+        adopting basketball as a sport, leading to the formation of the first college basketball
+        league in 1901. The game\'s popularity continued to soar, culminating in the establishment
+        of the National Basketball Association (NBA) in 1946 as the premier professional basketball
+        league in the United States.
+        \n\n
+        Basketball also played a significant role in the Olympics, with the sport making its debut
+        at the 1936 Summer Olympics in Berlin. The United States dominated the early Olympic
+        basketball tournaments, showcasing the nation\'s talent and passion for the sport. Over time,
+        the Olympics became a global stage for the best basketball talent from around the world.
+        \n\n
+        The sport continued to evolve in terms of rules and equipment, with innovations such as the
+        shot clock introduced in 1954 to increase the pace of the game. Legendary players like
+        Michael Jordan, Larry Bird, Magic Johnson, and LeBron James further fueled the sport\'s
+        popularity, elevating basketball to a global phenomenon. Today, basketball is played at
+        various levels, from local pick-up games to professional leagues worldwide, with the NBA
+        being one of the most-watched sports leagues globally. Its rich history and dynamic nature
+        make basketball a timeless and cherished part of sports culture.
+    </string>
+    <string name="bowling_detail_text">
+        Bowling, a classic leisure activity and competitive sport, has a history that stretches back
+        thousands of years. The origins of bowling can be traced to ancient civilizations, with some
+        of the earliest forms of the game discovered in Egyptian tombs dating back to around 3200
+        BCE. These ancient versions often involved rolling stones or wooden objects to knock down
+        other objects, much like modern bowling.
+        \n\n
+        The game of bowling as we know it today began to take shape in Europe during the
+        Middle Ages. In Germany, a form of bowling called "kegeln" was popular, using nine pins
+        arranged in a diamond pattern. Over time, this evolved into the ten-pin bowling we\'re
+        familiar with today. By the 19th century, bowling had made its way to the United States,
+        where it gained popularity, especially among German immigrants.
+        \n\n
+        In 1895, the American Bowling Congress (ABC) was formed, establishing standardized rules and
+        regulations for the game. The ten-pin format became the standard in the United States, with
+        the distinctive setup of ten pins arranged in a triangle at the end of a wooden lane.
+        Bowling alleys began to proliferate across the country, and the sport became a popular
+        form of entertainment.
+        \n\n
+        The introduction of automatic pin-setting machines in the 1950s revolutionized the game,
+        making it more accessible and efficient. This development led to the growth of bowling as
+        both a recreational pastime and a competitive sport. Leagues and tournaments became
+        commonplace, and professional bowling emerged as a popular televised sport in the
+        mid-20th century.
+        \n\n
+        Today, bowling remains a beloved activity enjoyed by people of all ages and skill levels.
+        It combines elements of strategy, precision, and camaraderie, making it a social sport as
+        well as a competitive one. Professional bowling tours, such as the Professional Bowlers
+        Association (PBA) Tour, showcase top-level talent, and bowling alleys continue to be a
+        gathering place for friends and families to enjoy a game together. Bowling\'s enduring appeal
+        and rich history make it a cherished part of leisure and sports culture worldwide.
+    </string>
+    <string name="cycling_detail_text">
+        The history of cycling is a fascinating journey through time, spanning centuries of
+        innovation and evolution. The origins of cycling can be traced back to the early 19th
+        century when various inventors and tinkerers began experimenting with pedal-powered
+        machines. One of the earliest documented examples is the draisine or "running machine"
+        invented by Karl Drais in 1817, which featured a wooden frame and handlebars but lacked pedals.
+        \n\n
+        The development of the pedal-driven bicycle took a significant leap forward in the 1860s
+        with the creation of the "boneshaker" or velocipede. These early bicycles featured iron or
+        wooden frames, solid rubber tires, and pedals attached directly to the front wheel. Despite
+        their uncomfortable ride and nickname, they became popular in the 1860s and 1870s.
+        \n\n
+        In the 1870s, the introduction of the high-wheel bicycle, also known as the penny-farthing
+        due to its large front wheel and small rear wheel, marked another milestone in cycling
+        history. This design allowed for greater speed but was dangerous and impractical for many
+        riders. However, it paved the way for the development of the "safety bicycle" in the 1880s,
+        featuring a chain drive system that connected the pedals to the rear wheel. This design made
+        cycling more accessible and led to a surge in popularity.
+        \n\n
+        By the late 19th century, cycling had become a global phenomenon. The formation of cycling
+        clubs, the standardization of rules, and the organization of competitive races, such as the
+        Tour de France in 1903, contributed to the sport\'s growth. The bicycle also played a pivotal
+        role in transportation, offering an affordable and efficient means of getting around for
+        many people.
+        \n\n
+        In the 20th century, cycling continued to evolve with innovations like the derailleur gear
+        system, which allowed riders to shift gears easily. The development of mountain biking in
+        the 1970s and the growth of competitive road racing, track cycling, and BMX added diversity
+        to the sport. Today, cycling encompasses a wide range of disciplines, from leisurely rides
+        to high-speed racing, and it remains a popular form of transportation, recreation, and
+        competition worldwide. Its history is a testament to human ingenuity and the enduring appeal
+        of two-wheeled travel.
+    </string>
+    <string name="golf_detail_text">
+        The history of golf is a storied journey that spans centuries and continents, reflecting the
+        evolution of the sport from its humble origins to its status as a beloved global pastime.
+        While the exact origins of golf are debated, it is widely believed to have originated in
+        Scotland during the late Middle Ages. Early forms of the game involved hitting a ball with a
+        stick or club across rough terrain toward a target, such as a tree or a hole, in as few
+        strokes as possible.
+        \n\n
+        One of the earliest documented mentions of golf dates back to 1457 when King James II of
+        Scotland banned the sport, as it was seen as a distraction from military training. However,
+        golf\'s popularity persisted, and it continued to be played on the rugged Scottish linksland.
+        The term "golf" itself is believed to have originated from the Dutch word "kolf," meaning
+        club or bat.
+        \n\n
+        The first recorded rules of golf were established in 1744 at the Honorable Company of
+        Edinburgh Golfers. These rules laid the foundation for modern golf, including the use of an
+        18-hole course and standardized equipment. The Royal and Ancient Golf Club of St. Andrews,
+        founded in 1754, played a crucial role in codifying the sport\'s rules and regulations.
+        \n\n
+        Golf experienced significant growth in the 19th century, particularly in the United Kingdom
+        and the United States. The development of the gutta-percha ball in the mid-1800s, replacing
+        the featherie ball, led to a more consistent and affordable golf ball. Golf clubs and
+        courses proliferated, and the sport became accessible to a wider range of players.
+        \n\n
+        The 20th century saw the expansion of professional golf, with the establishment of major
+        tournaments such as The Open Championship, the U.S. Open, the Masters Tournament, and the
+        PGA Championship. Legendary golfers like Bobby Jones, Jack Nicklaus, Arnold Palmer, and
+        Tiger Woods became household names and played pivotal roles in popularizing the sport.
+        Today, golf is enjoyed by millions of players worldwide, and it continues to evolve with
+        advancements in technology and a growing global fanbase. Its history is a testament to the
+        enduring appeal of the pursuit of precision and the beauty of the greens.
+    </string>
+    <string name="running_detail_text">
+        The history of running is a tale as old as humanity itself, rooted in our evolutionary
+        development as bipedal creatures. Running, in its simplest form, has been a crucial skill for
+        survival and transportation for millions of years, allowing early humans to hunt, gather,
+        and explore their environments.
+        \n\n
+        Throughout history, running played a pivotal role in various civilizations and cultures. In
+        ancient Greece, the Olympic Games, first held in 776 BCE, included running events like the
+        stadion, a short sprint of approximately 200 meters. These early competitions laid the
+        foundation for organized running as a sport.
+        \n\n
+        The marathon, one of the most iconic long-distance races, has its origins in ancient Greece
+        as well. Legend has it that in 490 BCE, a Greek soldier named Pheidippides ran from the
+        battlefield of Marathon to Athens, a distance of about 26.2 miles (42.2 kilometers), to
+        deliver news of a military victory. This event inspired the modern marathon race, which made
+        its debut at the 1896 Athens Olympics.
+        \n\n
+        In the 19th and 20th centuries, organized road racing gained popularity, with events like
+        the Boston Marathon (first held in 1897) and the Olympic Games contributing to the sport\'s
+        growth. Track and field competitions also became a staple of the modern Olympics, with
+        sprinters, middle-distance runners, and long-distance athletes achieving international
+        acclaim.
+        \n\n
+        The running boom of the 1970s and 1980s, ignited by events like the New York City Marathon
+        and the emergence of running as a recreational activity, transformed running into a global
+        phenomenon. The development of sports science, training methodologies, and advancements in
+        running shoe technology further elevated the sport. Today, running encompasses a wide range
+        of disciplines, from sprinting and middle-distance racing to ultramarathons and trail
+        running, and it continues to inspire individuals of all ages and abilities to lace up their
+        shoes and hit the road or trail. The history of running is a testament to our enduring
+        connection with this fundamental and empowering form of physical activity.
+    </string>
+    <string name="soccer_detail_text">
+        The history of soccer, also known as football in most parts of the world, is a story that
+        unfolds over centuries, tracing its origins to ancient civilizations. Ball games resembling
+        soccer were played by various cultures, such as the Greeks and Romans, as far back as 300 BCE.
+        These early versions of the game involved kicking a ball toward a designated target or goal.
+        \n\n
+        However, it was in medieval England that the sport began to take on its modern form. In the
+        12th century, a game called "mob football" was popular in English towns and villages, where
+        teams would compete to move a ball from one landmark to another. The rules were often
+        chaotic, and the game could be violent and unruly.
+        \n\n
+        In the 19th century, the need for standardized rules became evident. In 1863, the Football
+        Association (FA) was founded in England, marking a crucial moment in soccer history. The FA
+        established the fundamental rules of the game, including the prohibition of using hands to
+        touch the ball (except by goalkeepers) and the creation of a rectangular field with goalposts
+        at each end. These rules formed the basis for modern soccer.
+        \n\n
+        Soccer rapidly spread beyond England\'s borders, gaining popularity across Europe and South
+        America. International matches began to take place, with England hosting Scotland in the
+        first-ever international game in 1872. The sport continued to evolve, with the formation of
+        domestic leagues and the inclusion of soccer in the first modern Olympic Games in 1900.
+        \n\n
+        The pinnacle of international soccer came with the establishment of the FIFA World Cup in
+        1930, which has since become the most prestigious and widely watched soccer tournament in
+        the world. Iconic players like Pelé, Diego Maradona, and Lionel Messi have left indelible
+        marks on the sport, captivating fans with their skill and artistry.
+        \n\n
+        Today, soccer stands as the most popular sport globally, with millions of players and fans
+        in virtually every corner of the world. From the grassroots level to the highest professional
+        leagues, soccer\'s rich history is a testament to its ability to transcend cultural and
+        geographical boundaries, uniting people in the love of the beautiful game.
+    </string>
+    <string name="swimming_detail_text">
+        The history of swimming can be traced back thousands of years to ancient civilizations,
+        where it was not only a recreational activity but also an essential survival skill.
+        Ancient depictions of swimming can be found in cave paintings and records from civilizations
+        such as the Egyptians, Greeks, and Romans. Swimming was often practiced for military purposes,
+        transportation, and religious ceremonies.
+        \n\n
+        In the 19th century, swimming as a sport began to gain recognition and structure.
+        The National Swimming Society was established in London in 1837, and competitive swimming
+        events were organized with standardized rules. The sport continued to evolve, and swimming
+        was included in the inaugural modern Olympic Games in 1896, marking a significant milestone
+        in its history.
+        \n\n
+        Today, swimming is a popular recreational activity and competitive sport practiced worldwide.
+        Competitive swimming encompasses various strokes, each with its own technique and characteristics.
+        The four primary swimming strokes are:
+        \n\n
+        1. Freestyle (Front Crawl): Freestyle is the fastest and most common stroke used in
+        competitive swimming. Swimmers use a flutter kick and alternating arm strokes to move
+        forward while keeping their face in the water. Breathing is typically done by turning the
+        head to the side during arm strokes.
+        \n
+        2. Backstroke: In backstroke, swimmers lie on their backs and use an alternating flutter
+        kick and rotating arm strokes. Unlike other strokes, the face remains out of the water,
+        and swimmers must rely on timing to breathe properly.
+        \n
+        3. Breaststroke: Breaststroke is known for its unique frog-like leg motion, where both legs
+        move simultaneously in a circular motion. The arms move in a coordinated manner, with an
+        initial pull, followed by a simultaneous arm sweep and recovery. Swimmers must breathe by
+        lifting their head out of the water during each arm stroke cycle.
+        \n
+        4. Butterfly: Butterfly is considered one of the most challenging and physically demanding
+        strokes. Swimmers use an undulating dolphin kick and simultaneous arm strokes that come out
+        of the water to propel themselves forward. Breathing is typically done by lifting the head
+        out of the water during the arm recovery phase.
+        \n\n
+        These strokes form the basis of competitive swimming events, with each having its own set of
+        distances and individual medley (IM) events, where swimmers must perform all four strokes in
+        a specific order. The history of swimming and the development of these strokes have
+        contributed to the sport\'s enduring popularity, both as a means of recreation and as a
+        highly competitive athletic endeavor.
+    </string>
+    <string name="table_tennis_detail_text">
+        The history of table tennis, also known as ping pong, is a relatively recent one compared
+        to many other sports, but it has quickly become a beloved pastime and competitive activity
+        worldwide. The roots of table tennis can be traced back to England in the late 19th century,
+        where it was initially played as an indoor version of lawn tennis. Early versions of the
+        game used makeshift equipment, including cigar box lids as paddles and rounded wine corks
+        as balls.
+        \n\n
+        The name "ping pong" originated as an onomatopoeic term for the sound made by the ball
+        hitting the table and the paddles. In the early 20th century, the sport gained popularity,
+        and several companies began marketing ping pong equipment. The first official table tennis
+        tournament was held in 1902, and the game\'s rules were gradually standardized.
+        \n\n
+        Table tennis quickly spread beyond England, with Europe and Asia becoming major hubs for the
+        sport. In the 1920s, the International Table Tennis Federation (ITTF) was established, with
+        the sport\'s first official world championships taking place in London in 1926. The ITTF
+        played a pivotal role in promoting and regulating table tennis on the global stage.
+        \n\n
+        During the mid-20th century, table tennis experienced a surge in popularity, with
+        international competitions becoming increasingly competitive. The sport made its Olympic
+        debut at the 1988 Seoul Olympics and has been a regular Olympic event since. The rapid pace,
+        precision, and skill required in table tennis have captivated both recreational players and
+        professional athletes alike.
+        \n\n
+        Today, table tennis is enjoyed by millions of players of all ages and skill levels worldwide.
+        It is known for its fast-paced rallies, spin techniques, and lightning-quick reflexes.
+        Professional players from countries like China have dominated the international scene,
+        showcasing extraordinary talent and agility. The history of table tennis is a testament to
+        the sport\'s universal appeal, its journey from humble beginnings to a global phenomenon,
+        and its status as an Olympic sport that continues to captivate enthusiasts around the world.
+    </string>
+    <string name="tennis_detail_text">
+        The history of tennis is a tale that spans centuries and continents, reflecting the
+        evolution of a sport that has captured the hearts of players and fans worldwide. Tennis can
+        trace its origins back to various ancient ball games played across cultures, but it began to
+        take a more recognizable form in medieval France. In the 12th century, a game called
+        "jeu de paume" (game of the palm) was popular, played with the hand or a glove, often in
+        courtyards or against church walls.
+        \n\n
+        The term "tennis" is believed to have originated from the French word "tenez," which means
+        "take heed" or "receive." In this game, one player would serve the ball, and the opponent
+        would attempt to return it. Tennis began to spread across Europe, with variations in rules
+        and equipment, and it became a favorite pastime among nobility and aristocrats.
+        \n\n
+        In the 16th century, tennis underwent a transformation with the introduction of rackets,
+        allowing players to hit the ball with more power and precision. The sport was played in
+        indoor courts, and it gained popularity in England, where it was known as "real tennis."
+        This form of tennis had intricate rules, and each court was unique, which made it a sport
+        primarily for the elite.
+        \n\n
+        The modern version of lawn tennis, which most people are familiar with today, emerged in the
+        late 19th century in England. Major Walter Clopton Wingfield is often credited with
+        popularizing the outdoor version of tennis. He published the first set of standardized rules
+        for lawn tennis in 1874, and the game soon spread across the British Empire and to the
+        United States.
+        \n\n
+        The first Wimbledon Championships, one of the most prestigious tennis tournaments in the
+        world, took place in 1877. Lawn tennis quickly gained popularity worldwide, and tennis
+        clubs and associations were established to govern the sport. The Davis Cup, the world\'s
+        premier international team tennis competition, was inaugurated in 1900.
+        \n\n
+        Tennis made its Olympic debut at the 1896 Athens Games and has been a part of the Summer
+        Olympics ever since. Over the years, tennis has seen legendary players like Rod Laver,
+        Bjorn Borg, Martina Navratilova, Serena Williams, Roger Federer, and Rafael Nadal, who
+        have contributed to its rich history and global appeal. Today, tennis is played at
+        various levels, from grassroots to the professional tour, and it continues to captivate
+        fans with its thrilling matches and iconic moments.
+    </string>
+
+    <plurals name="player_count_caption">
+        <item quantity="one">1 Player</item>
+        <item quantity="other">%1$d Players</item>
+    </plurals>
+    <string name="olympic_caption">Olympic</string>
+
+    <string name="back_button">Back</string>
+</resources>
