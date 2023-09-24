@@ -119,7 +119,12 @@ fun SportsTheme(
             //val window = (view.context as Activity).window
             //window.statusBarColor = colorScheme.primary.toArgb()
             //WindowCompat.getInsetsController(window, view).isAppearanceLightStatusBars = darkTheme
-            //TODO: Describe what Edge To Edge does
+
+            //EdgeToEdge -
+            // This function matches the edge colors of the device screen with your theme colors
+            // so it appears that your entire app is edge-to-edge.
+            // The practical effect is that it looks like there is a little additional padding
+            // on the bottom of the screen that matches your apps colors
             setUpEdgeToEdge(view, darkTheme)
         }
     }

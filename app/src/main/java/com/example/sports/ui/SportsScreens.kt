@@ -289,7 +289,10 @@ private fun SportsDetail(
                     modifier = Modifier.padding(dimensionResource(R.dimen.padding_small))
                 ) {
                     Text(
-                        // TODO: Describe plural string resources
+                        // pluralStringResource is a new feature of Android. It is an interesting
+                        // niche feature that lets you reference just one string resource and it will
+                        // display either "1 player" or "2 players" with an s depending on the value
+                        // passed in.
                         text = pluralStringResource(
                             R.plurals.player_count_caption,
                             selectedSport.playerCount,
@@ -299,11 +302,13 @@ private fun SportsDetail(
                         color = MaterialTheme.colorScheme.inverseOnSurface,
                     )
                     Spacer(Modifier.weight(1f))
-                    Text(
-                        text = stringResource(R.string.olympic_caption),
-                        style = MaterialTheme.typography.labelMedium,
-                        color = MaterialTheme.colorScheme.inverseOnSurface,
-                    )
+                    if (selectedSport.olympic) {
+                        Text(
+                            text = stringResource(R.string.olympic_caption),
+                            style = MaterialTheme.typography.labelMedium,
+                            color = MaterialTheme.colorScheme.inverseOnSurface,
+                        )
+                    }
                 }
             }
         }
