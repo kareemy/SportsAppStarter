@@ -87,10 +87,7 @@ fun SportsApp(
         // TODO: Add simple navigation with if/else conditional to show Details page
         SportsList(
             sports = uiState.sportsList,
-            onClick = {
-                viewModel.updateCurrentSport(it)
-                //viewModel.navigateToDetailPage()
-            },
+            onClick = { /* TODO */ },
             contentPadding = innerPadding,
             modifier = Modifier
                 .fillMaxWidth()
